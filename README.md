@@ -1,5 +1,10 @@
 # Into_Python
-This repository contains all the basic python functions. Initially it consists of single jupyter notebook for basics of python but I will further add on more introductory notebooks for numpy, matplotlib etc.
+
+The Jupyter Notebook, _"Basics of Python"_ is a brief comprihension of all the important topics of python along with syntaxes and examples. 
+It is ideal for anyone who already is familiar with other programming languages and wants to make a switch to python. A detailed study of this notebook will enable you to write almost any program in python (excluding libraries).
+
+Hope this helps ^_^
+
+_Version: Python 3_
 
 
-# Credits: Kaushil Kaushil
